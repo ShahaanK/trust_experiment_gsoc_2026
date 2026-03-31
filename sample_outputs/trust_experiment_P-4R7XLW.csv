@@ -1,0 +1,10 @@
+participant_id,condition,scenario_id,decision,selected_option,recommended_option,latency_ms,timestamp
+"P-4R7XLW","B",1,"accept","opt_a","opt_a",5921,"2026-03-31T03:26:43.434Z"
+"P-4R7XLW","B",2,"accept","opt_b","opt_b",2744,"2026-03-31T03:26:49.319Z"
+"P-4R7XLW","B",3,"accept","opt_a","opt_a",752,"2026-03-31T03:26:52.523Z"
+"P-4R7XLW","B",3,"override","opt_b","opt_a",2780,"2026-03-31T03:26:54.550Z"
+"P-4R7XLW","B",3,"accept","opt_a","opt_a",3355,"2026-03-31T03:26:55.125Z"
+"P-4R7XLW","B",4,"override","opt_b","opt_a",822,"2026-03-31T03:26:58.120Z"
+"P-4R7XLW","B",5,"override","opt_a","opt_b",2102,"2026-03-31T03:27:03.218Z"
+"P-4R7XLW","B",5,"accept","opt_b","opt_b",4734,"2026-03-31T03:27:05.850Z"
+"P-4R7XLW","B",6,"override","opt_b","opt_a",2809,"2026-03-31T03:27:17.379Z"

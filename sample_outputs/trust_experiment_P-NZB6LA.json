@@ -1,0 +1,219 @@
+{
+  "metadata": {
+    "participant_id": "P-NZB6LA",
+    "condition": "A",
+    "exported_at": "2026-03-31T03:29:27.017Z"
+  },
+  "events": [
+    {
+      "participant_id": "P-NZB6LA",
+      "condition": "A",
+      "event_type": "experiment_start",
+      "timestamp": "2026-03-31T03:28:43.509Z"
+    },
+    {
+      "participant_id": "P-NZB6LA",
+      "condition": "A",
+      "event_type": "instructions_complete",
+      "timestamp": "2026-03-31T03:28:44.463Z"
+    },
+    {
+      "participant_id": "P-NZB6LA",
+      "condition": "A",
+      "event_type": "recommendation_shown",
+      "timestamp": "2026-03-31T03:28:46.081Z",
+      "scenario_id": 1,
+      "recommended_option": "opt_a"
+    },
+    {
+      "participant_id": "P-NZB6LA",
+      "condition": "A",
+      "event_type": "recommendation_shown",
+      "timestamp": "2026-03-31T03:28:46.410Z",
+      "scenario_id": 1,
+      "recommended_option": "opt_a"
+    },
+    {
+      "participant_id": "P-NZB6LA",
+      "condition": "A",
+      "event_type": "decision",
+      "timestamp": "2026-03-31T03:28:49.966Z",
+      "scenario_id": 1,
+      "decision": "override",
+      "selected_option": "opt_b",
+      "recommended_option": "opt_a",
+      "latency_ms": 3556
+    },
+    {
+      "participant_id": "P-NZB6LA",
+      "condition": "A",
+      "event_type": "decision",
+      "timestamp": "2026-03-31T03:28:52.440Z",
+      "scenario_id": 1,
+      "decision": "accept",
+      "selected_option": "opt_a",
+      "recommended_option": "opt_a",
+      "latency_ms": 6030
+    },
+    {
+      "participant_id": "P-NZB6LA",
+      "condition": "A",
+      "event_type": "confidence_rating",
+      "timestamp": "2026-03-31T03:28:53.937Z",
+      "scenario_id": 1,
+      "confidence": 5
+    },
+    {
+      "participant_id": "P-NZB6LA",
+      "condition": "A",
+      "event_type": "recommendation_shown",
+      "timestamp": "2026-03-31T03:28:57.860Z",
+      "scenario_id": 2,
+      "recommended_option": "opt_b"
+    },
+    {
+      "participant_id": "P-NZB6LA",
+      "condition": "A",
+      "event_type": "decision",
+      "timestamp": "2026-03-31T03:28:58.958Z",
+      "scenario_id": 2,
+      "decision": "override",
+      "selected_option": "opt_a",
+      "recommended_option": "opt_b",
+      "latency_ms": 1098
+    },
+    {
+      "participant_id": "P-NZB6LA",
+      "condition": "A",
+      "event_type": "confidence_rating",
+      "timestamp": "2026-03-31T03:28:59.596Z",
+      "scenario_id": 2,
+      "confidence": 5
+    },
+    {
+      "participant_id": "P-NZB6LA",
+      "condition": "A",
+      "event_type": "recommendation_shown",
+      "timestamp": "2026-03-31T03:29:02.766Z",
+      "scenario_id": 3,
+      "recommended_option": "opt_a"
+    },
+    {
+      "participant_id": "P-NZB6LA",
+      "condition": "A",
+      "event_type": "decision",
+      "timestamp": "2026-03-31T03:29:03.974Z",
+      "scenario_id": 3,
+      "decision": "accept",
+      "selected_option": "opt_a",
+      "recommended_option": "opt_a",
+      "latency_ms": 1208
+    },
+    {
+      "participant_id": "P-NZB6LA",
+      "condition": "A",
+      "event_type": "confidence_rating",
+      "timestamp": "2026-03-31T03:29:05.905Z",
+      "scenario_id": 3,
+      "confidence": 5
+    },
+    {
+      "participant_id": "P-NZB6LA",
+      "condition": "A",
+      "event_type": "recommendation_shown",
+      "timestamp": "2026-03-31T03:29:07.696Z",
+      "scenario_id": 4,
+      "recommended_option": "opt_a"
+    },
+    {
+      "participant_id": "P-NZB6LA",
+      "condition": "A",
+      "event_type": "decision",
+      "timestamp": "2026-03-31T03:29:10.549Z",
+      "scenario_id": 4,
+      "decision": "accept",
+      "selected_option": "opt_a",
+      "recommended_option": "opt_a",
+      "latency_ms": 2853
+    },
+    {
+      "participant_id": "P-NZB6LA",
+      "condition": "A",
+      "event_type": "decision",
+      "timestamp": "2026-03-31T03:29:12.095Z",
+      "scenario_id": 4,
+      "decision": "override",
+      "selected_option": "opt_b",
+      "recommended_option": "opt_a",
+      "latency_ms": 4399
+    },
+    {
+      "participant_id": "P-NZB6LA",
+      "condition": "A",
+      "event_type": "confidence_rating",
+      "timestamp": "2026-03-31T03:29:13.464Z",
+      "scenario_id": 4,
+      "confidence": 2
+    },
+    {
+      "participant_id": "P-NZB6LA",
+      "condition": "A",
+      "event_type": "recommendation_shown",
+      "timestamp": "2026-03-31T03:29:14.881Z",
+      "scenario_id": 5,
+      "recommended_option": "opt_b"
+    },
+    {
+      "participant_id": "P-NZB6LA",
+      "condition": "A",
+      "event_type": "decision",
+      "timestamp": "2026-03-31T03:29:15.646Z",
+      "scenario_id": 5,
+      "decision": "override",
+      "selected_option": "opt_a",
+      "recommended_option": "opt_b",
+      "latency_ms": 765
+    },
+    {
+      "participant_id": "P-NZB6LA",
+      "condition": "A",
+      "event_type": "confidence_rating",
+      "timestamp": "2026-03-31T03:29:17.502Z",
+      "scenario_id": 5,
+      "confidence": 5
+    },
+    {
+      "participant_id": "P-NZB6LA",
+      "condition": "A",
+      "event_type": "recommendation_shown",
+      "timestamp": "2026-03-31T03:29:19.790Z",
+      "scenario_id": 6,
+      "recommended_option": "opt_a"
+    },
+    {
+      "participant_id": "P-NZB6LA",
+      "condition": "A",
+      "event_type": "decision",
+      "timestamp": "2026-03-31T03:29:22.315Z",
+      "scenario_id": 6,
+      "decision": "accept",
+      "selected_option": "opt_a",
+      "recommended_option": "opt_a",
+      "latency_ms": 2525
+    },
+    {
+      "participant_id": "P-NZB6LA",
+      "condition": "A",
+      "event_type": "confidence_rating",
+      "timestamp": "2026-03-31T03:29:23.780Z",
+      "scenario_id": 6,
+      "confidence": 3
+    },
+    {
+      "participant_id": "P-NZB6LA",
+      "condition": "A",
+      "event_type": "experiment_complete",
+      "timestamp": "2026-03-31T03:29:24.947Z"
+    }
+  ]
+}
