@@ -99,4 +99,4 @@ src/
 
 ## Disclosure
 
-AI tools (Claude) were used during development as a coding assistant for scaffolding, debugging, and documentation styling. All architectural decisions, experimental design choices, and code logic were reviewed, understood, and validated by me.
+AI tools (Claude) were used during development as a coding assistant for scaffolding, debugging, and documentation styling of the Screening Test. All architectural decisions, experimental design choices, and code logic were developed, reviewed and approved by me.
